@@ -1,0 +1,10 @@
+C:\Users\afaraujo\Desktop\ProjetoAtletas\bin\Debug\netcoreapp2.0\ProjetoAtletas.deps.json
+C:\Users\afaraujo\Desktop\ProjetoAtletas\bin\Debug\netcoreapp2.0\ProjetoAtletas.runtimeconfig.json
+C:\Users\afaraujo\Desktop\ProjetoAtletas\bin\Debug\netcoreapp2.0\ProjetoAtletas.runtimeconfig.dev.json
+C:\Users\afaraujo\Desktop\ProjetoAtletas\bin\Debug\netcoreapp2.0\ProjetoAtletas.dll
+C:\Users\afaraujo\Desktop\ProjetoAtletas\bin\Debug\netcoreapp2.0\ProjetoAtletas.pdb
+C:\Users\afaraujo\Desktop\ProjetoAtletas\obj\Debug\netcoreapp2.0\ProjetoAtletas.csproj.CoreCompileInputs.cache
+C:\Users\afaraujo\Desktop\ProjetoAtletas\obj\Debug\netcoreapp2.0\ProjetoAtletas.AssemblyInfoInputs.cache
+C:\Users\afaraujo\Desktop\ProjetoAtletas\obj\Debug\netcoreapp2.0\ProjetoAtletas.AssemblyInfo.cs
+C:\Users\afaraujo\Desktop\ProjetoAtletas\obj\Debug\netcoreapp2.0\ProjetoAtletas.dll
+C:\Users\afaraujo\Desktop\ProjetoAtletas\obj\Debug\netcoreapp2.0\ProjetoAtletas.pdb
